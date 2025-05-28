@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   app:
-    image: "ewr.vultrcr.com/olivertechnologysolutions/bright-haven-cleaning:0.9"
+    image: "ewr.vultrcr.com/olivertechnologysolutions/bright-haven-cleaning:0.10"
     container_name: flask_app
     expose:
       - "5000"
